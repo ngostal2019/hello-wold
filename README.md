@@ -18,3 +18,9 @@
 # Maxime
 - I can't wait to finish this training so i can be a fully DevOpps admin
 - The linux class was good but at some point scaring and brutal especially storage management
+----------------
+# Ozoya
+- The Linux course was great but appeared difficult and my teacher Stan made it enjoyable
+- The voyage of DevOps is amazing and magical
+- The introduction of Terraform is inexplicable
+- This journey so far is adventurous as we keep learning new stuffs
